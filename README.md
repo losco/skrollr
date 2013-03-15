@@ -636,4 +636,4 @@ Special thanks to [cubiq](https://github.com/cubiq) for creating [iScroll](https
 * [Jim Osborn](https://github.com/ThinkTherefore)
 * [Dowon Kang](https://github.com/dowonkang)
 * [rbeitra](https://github.com/rbeitra)
-* Everyone giving feedback on Twitter and through other channels.
+* Everyone giving feedback on Twitter and through other channels.version updated
